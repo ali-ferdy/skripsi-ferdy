@@ -2196,7 +2196,7 @@ But I myself was puzzled, and as soon as I was alone with Poirot I asked him wha
 Detective-inspector Japp was the first witness called when the trial was reopened, and gave his evidence succinctly and briefly. After relating the earlier events, he proceeded:
 “Acting on information received, Superintendent Summerhaye and myself searched the prisoner’s room, during his temporary absence from the house. In his chest of drawers, hidden beneath some underclothing, we found: first, a pair of gold-rimmed pince-nez similar to those worn by Mr. Inglethorp”—these were exhibited—“secondly, this phial.”
 The phial was that already recognized by the chemist’s assistant, a tiny bottle of blue glass, containing a few grains of a white crystalline powder, and labelled: “Strychnine Hydrochloride. Poison.”
-A fresh piece of evidence discovered by the detectives since the police court proceedings was a long, almost new piece of blotting-paper. It had been found in Mrs. Inglethorp’s cheque book, and on being reversed at a mirror, showed clearly the words: “… everything of which I die possessed I leave to my beloved husband Alfred Ing⁠ ⁠…” This placed beyond question the fact that the destroyed will had been in favour of the deceased lady’s husband. Japp then produced the charred fragment of paper recovered from the grate, and this, with the discovery of the beard in the attic, completed his evidence.
+A fresh piece of evidence discovered by the detectives since the police court proceedings was a long, almost new piece of blotting-paper. It had been found in Mrs. Inglethorp’s cheque book, and on being reversed at a mirror, showed clearly the words: “… everything of which I die possessed I leave to my beloved husband Alfred Ing …” This placed beyond question the fact that the destroyed will had been in favour of the deceased lady’s husband. Japp then produced the charred fragment of paper recovered from the grate, and this, with the discovery of the beard in the attic, completed his evidence.
 But Sir Ernest’s cross-examination was yet to come.
 “What day was it when you searched the prisoner’s room?”
 “Tuesday, the 24th of July.”
@@ -2563,7 +2563,7 @@ I opened my mouth, but she forestalled me.
 “Say no more! Nobody loves me! I shall go into the garden and eat worms! Boohoo! I am crushed!”
 She buried herself behind a large comic French paper. In a minute or two I saw her eyes stealthily peeping at me over the top. In spite of myself I could not help smiling, and in a minute she had tossed the paper aside, and had burst into a merry peal of laughter.
 “I knew you weren’t such a mutt as you looked,” she cried.
-Her laughter was so infectious that I could not help joining in, though I hardly cared for the word “mutt.” The girl was certainly all that I most disliked, but that was no reason why I should make myself ridiculous by my attitude. I prepared to unbend. After all, she was decidedly pretty.⁠…
+Her laughter was so infectious that I could not help joining in, though I hardly cared for the word “mutt.” The girl was certainly all that I most disliked, but that was no reason why I should make myself ridiculous by my attitude. I prepared to unbend. After all, she was decidedly pretty.…
 “There! Now we’re friends!” declared the minx. “Say you’re sorry about my sister—”
 “I am desolated!”
 “That’s a good boy!”
@@ -2613,8 +2613,8 @@ I secured a couple of porters, and we alighted on the platform. My companion hel
 “Mayn’t be on the boat. I’ve got to see whether that sister of mine got aboard after all anywhere. But thanks all the same.”
 “Oh, but we’re going to meet again, surely? I—” I hesitated. “I want to meet your sister.”
 We both laughed.
-“That’s real nice of you. I’ll tell her what you say. But I don’t fancy we’ll meet again. You’ve been very good to me on the journey, especially after I cheeked you as I did. But what your face expressed first thing is quite true. I’m not your kind. And that brings trouble—I know that well enough.⁠…”
-Her face changed. For the moment all the lighthearted gaiety died out of it. It looked angry—revengeful.⁠…
+“That’s real nice of you. I’ll tell her what you say. But I don’t fancy we’ll meet again. You’ve been very good to me on the journey, especially after I cheeked you as I did. But what your face expressed first thing is quite true. I’m not your kind. And that brings trouble—I know that well enough.…”
+Her face changed. For the moment all the lighthearted gaiety died out of it. It looked angry—revengeful.…
 “So goodbye,” she finished, in a lighter tone.
 “Aren’t you even going to tell me your name?” I cried, as she turned away.
 She looked over her shoulder. A dimple appeared in each cheek. She was like a lovely picture by Greuze.
@@ -3455,7 +3455,7 @@ I nodded towards the glass jar.
 “That dagger.”
 Suddenly the girl reeled, and then sank down in a heap. I sprang to her assistance.
 “You are faint. Come out of here. It has been too much for you.”
-“Water,” she murmured. “Quick. Water.⁠…”
+“Water,” she murmured. “Quick. Water.…”
 I left her, and rushed into the house. Fortunately none of the servants were about, and I was able to secure a glass of water unobserved and add a few drops of brandy from a pocket flask. In a few minutes I was back again. The girl was lying as I had left her, but a few sips of the brandy and water revived her in a marvellous manner.
 “Take me out of here—oh, quickly, quickly!” she cried, shuddering.
 Supporting her with my arm I led her out into the air, and she pulled the door to behind her. Then she drew a deep breath.
@@ -3496,7 +3496,7 @@ The quiet voice startled us. Giraud was standing outside looking in through the 
 He leaped lightly into the room, and advanced to the table.
 “Here I am, M. le juge, at your service. Accept my excuses for not presenting myself sooner.”
 “Not at all. Not at all,” said the magistrate, rather confused.
-“Of course I am only a detective,” continued the other. “I know nothing of interrogatories. Were I conducting one, I should be inclined to do so without an open window. Anyone standing outside can so easily hear all that passes.⁠… But no matter.”
+“Of course I am only a detective,” continued the other. “I know nothing of interrogatories. Were I conducting one, I should be inclined to do so without an open window. Anyone standing outside can so easily hear all that passes.… But no matter.”
 M. Hautet flushed angrily. There was evidently going to be no love lost between the examining magistrate and the detective in charge of the case. They had fallen foul of each other at the start. Perhaps in any event it would have been much the same. To Giraud, all examining magistrates were fools, and to M. Hautet who took himself seriously, the casual manner of the Paris detective could not fail to give offence.
 “Eh bien, M. Giraud,” said the magistrate rather sharply. “Without doubt you have been employing your time to a marvel? You have the names of the assassins for us, have you not? And also the precise spot where they find themselves now?”
 Unmoved by this irony, Giraud replied:
@@ -3861,7 +3861,7 @@ I was revolving sundry matters in my mind.
 He spoke so gravely, and with such assurance, that I could not fail to be convinced. But I essayed one final objection:
 “And the match and cigarette end found near the body? What of them.”
 A light of pure enjoyment lit up Poirot’s face.
-“Planted! Deliberately planted there for Giraud or one of his tribe to find! Ah, he is smart, Giraud, he can do his tricks! So can a good retriever dog. He comes in so pleased with himself. For hours he has crawled on his stomach. ‘See what I have found,’ he says. And then again to me: ‘What do you see here?’ Me, I answer, with profound and deep truth, ‘Nothing.’ And Giraud, the great Giraud, he laughs, he thinks to himself, ‘Oh, that he is imbecile, this old one!’ But we shall see.⁠…”
+“Planted! Deliberately planted there for Giraud or one of his tribe to find! Ah, he is smart, Giraud, he can do his tricks! So can a good retriever dog. He comes in so pleased with himself. For hours he has crawled on his stomach. ‘See what I have found,’ he says. And then again to me: ‘What do you see here?’ Me, I answer, with profound and deep truth, ‘Nothing.’ And Giraud, the great Giraud, he laughs, he thinks to himself, ‘Oh, that he is imbecile, this old one!’ But we shall see.…”
 But my mind had reverted to the main facts.
 “Then all this story of the masked men—?”
 “Is false.”
@@ -3951,7 +3951,7 @@ I did not quite relish the last remark.
 “Mon ami—I know human nature. Throw together a boy like young Renauld and a beautiful girl like Mademoiselle Marthe, and the result is almost inevitable. Then, the quarrel! It was money or a woman and, remembering Leonie’s description of the lad’s anger, I decided on the latter. So I made my guess—and I was right.”
 “And that was why you warned me against setting my heart on the lady? You already suspected that she loved young Renauld?”
 Poirot smiled.
-“At any rate—I saw that she had anxious eyes. That is how I always think of Mademoiselle Daubreuil—as the girl with the anxious eyes.⁠…”
+“At any rate—I saw that she had anxious eyes. That is how I always think of Mademoiselle Daubreuil—as the girl with the anxious eyes.…”
 His voice was so grave that it impressed me uncomfortably.
 “What do you mean by that, Poirot?”
 “I fancy, my friend, that we shall see before very long. But I must start.”
@@ -3987,7 +3987,7 @@ I had moved to depart, realizing that I was quite unintentionally eavesdropping.
 But the girl’s face was troubled, and Jack Renauld seemed to recognize it, as he held her closer to him and asked:
 “But what are you afraid of, darling? What is there to fear—now?”
 And then I saw the look in her eyes, the look Poirot had spoken of, as she murmured, so that I almost guessed at the words.
-“I am afraid—for you.⁠…”
+“I am afraid—for you.…”
 I did not hear young Renauld’s answer, for my attention was distracted by an unusual appearance a little further down the hedge. There appeared to be a brown bush there, which seemed odd, to say the least of it, so early in the summer. I stepped along to investigate, but, at my advance, the brown bush withdrew itself precipitately, and faced me with a finger to its lips. It was Giraud.
 Enjoining caution, he led the way round the shed until we were out of earshot.
 “What were you doing there?” I asked.
@@ -4122,7 +4122,7 @@ I approached the chief porter, an intelligent looking man, and had little diffic
 I do not know what put the idea into my head—possibly it was the deep anxiety underlying Marthe Daubreuil’s tones—but I asked suddenly:
 “Young M. Renauld—he did not leave by that train, did he?”
 “Ah, no, monsieur. To arrive and start off again within half an hour, it would not be amusing, that!”
-I stared at the man, the significance of his words almost escaping me. Then I saw.⁠…
+I stared at the man, the significance of his words almost escaping me. Then I saw.…
 “You mean,” I said, my heart beating a little, “that M. Jack Renauld arrived at Merlinville that evening?”
 “But yes, monsieur. By the last train arriving the other way, the 11:40.”
 My brain whirled. That, then, was the reason of Marthe’s poignant anxiety. Jack Renauld had been in Merlinville on the night of the crime! But why had he not said so? Why, on the contrary, had he led us to believe that he had remained in Cherbourg? Remembering his frank boyish countenance, I could hardly bring myself to believe that he had any connection with the crime. Yet why this silence on his part about so vital a matter? One thing was certain, Marthe had known all along. Hence her anxiety, and her eager questioning of Poirot to know whether anyone were suspected.
@@ -4218,7 +4218,7 @@ Throughout, Madame Beroldy confronted her accusers with complete sangfroid and s
 But the prosecution was implacable. It denounced the masked “Russians” as a myth, and asserted that the crime had been committed by Madame Beroldy and her lover, Georges Conneau. A warrant was issued for the arrest of the latter, but he had wisely disappeared. Evidence showed that the bonds which secured Madame Beroldy were so loose that she could easily have freed herself.
 And then, towards the close of the trial, a letter, posted in Paris, was sent to the Public Prosecutor. It was from Georges Conneau and, without revealing his whereabouts, it contained a full confession of the crime. He declared that he had indeed struck the fatal blow at Madame Beroldy’s instigation. The crime had been planned between them. Believing that her husband ill-treated her, and maddened by his own passion for her, a passion which he believed her to return, he had planned the crime and struck the fatal blow that should free the woman he loved from a hateful bondage. Now, for the first time, he learned of Mr. Hiram P. Trapp, and realized that the woman he loved had betrayed him! Not for his sake did she wish to be free—but in order to marry the wealthy American. She had used him as a cat’s-paw, and now, in his jealous rage, he turned and denounced her, declaring that throughout he had acted at her instigation.
 And then Madame Beroldy proved herself the remarkable woman she undoubtedly was. Without hesitation, she dropped her previous defence, and admitted that the “Russians” were a pure invention on her part. The real murderer was Georges Conneau. Maddened by passion, he had committed the crime, vowing that if she did not keep silence he would enact a terrible vengeance from her. Terrified by his threats, she had consented—also fearing it likely that if she told the truth she might be accused of conniving at the crime. But she had steadfastly refused to have anything more to do with her husband’s murderer, and it was in revenge for this attitude on her part that he had written this letter accusing her. She swore solemnly that she had had nothing to do with the planning of the crime, that she had awoke on that memorable night to find Georges Conneau standing over her, the bloodstained knife in his hand.
-It was a touch and go affair. Madame Beroldy’s story was hardly credible. But this woman, whose fairy tales of royal intrigues had been so easily accepted, had the supreme art of making herself believed. Her address to the jury was a masterpiece. The tears streaming down her face, she spoke of her child, of her woman’s honour—of her desire to keep her reputation untarnished for the child’s sake. She admitted that, Georges Conneau having been her lover, she might perhaps be held morally responsible for the crime—but, before God, nothing more! She knew that she had committed a grave fault in not denouncing Conneau to the law, but she declared in a broken voice that that was a thing no woman could have done.⁠… She had loved him! Could she let her hand be the one to send him to the guillotine? She had been guilty of much, but she was innocent of the terrible crime imputed to her.
+It was a touch and go affair. Madame Beroldy’s story was hardly credible. But this woman, whose fairy tales of royal intrigues had been so easily accepted, had the supreme art of making herself believed. Her address to the jury was a masterpiece. The tears streaming down her face, she spoke of her child, of her woman’s honour—of her desire to keep her reputation untarnished for the child’s sake. She admitted that, Georges Conneau having been her lover, she might perhaps be held morally responsible for the crime—but, before God, nothing more! She knew that she had committed a grave fault in not denouncing Conneau to the law, but she declared in a broken voice that that was a thing no woman could have done.… She had loved him! Could she let her hand be the one to send him to the guillotine? She had been guilty of much, but she was innocent of the terrible crime imputed to her.
 However that may have been, her eloquence and personality won the day. Madame Beroldy, amidst a scene of unparalleled excitement, was acquitted. Despite the utmost endeavours of the police, Georges Conneau was never traced. As for Madame Beroldy, nothing more was heard of her. Taking the child with her, she left Paris to begin a new life.
 I have set down the Beroldy case in full. Of course all the details did not present themselves to my memory as I have recounted them here. Nevertheless, I recalled the case fairly accurately. It had attracted a great deal of interest at the time, and had been fully reported by the English papers, so that it did not need much effort of memory on my part to recollect the salient details.
 Just for the moment, in my excitement, it seemed to clear up the whole matter. I admit that I am impulsive, and Poirot deplores my custom of jumping to conclusions, but I think I had some excuse in this instance. The remarkable way in which this discovery justified Poirot’s point of view struck me at once.
@@ -4275,7 +4275,7 @@ His remark struck me as so peculiarly lacking in lucidity that I looked at him i
 That changed the course of my ideas, and I asked Poirot if he knew that Jack Renauld had been in Merlinville on the night of the crime. I had hoped to catch my astute little friend napping, but as usual, he was omniscient. He, too, had inquired at the station.
 “And without doubt we are not original in the idea, Hastings. The excellent Giraud, he also has probably made his inquiries.”
 “You don’t think—” I said, and then stopped. “Ah, no, it would be too horrible!”
-Poirot looked inquiringly at me, but I said no more. It had just occurred to me that though there were seven women directly or indirectly connected with the case Mrs. Renauld, Madame Daubreuil and her daughter, the mysterious visitor, and the three servants—there was, with the exception of old Auguste who could hardly count, only one man—Jack Renauld. And a man must have dug a grave.⁠…
+Poirot looked inquiringly at me, but I said no more. It had just occurred to me that though there were seven women directly or indirectly connected with the case Mrs. Renauld, Madame Daubreuil and her daughter, the mysterious visitor, and the three servants—there was, with the exception of old Auguste who could hardly count, only one man—Jack Renauld. And a man must have dug a grave.…
 I had no time to develop further the appalling idea that had occurred to me, for Jack Renauld was ushered into the room.
 Poirot greeted him in a businesslike manner.
 “Take a seat, monsieur. I regret infinitely to derange you, but you will perhaps understand that the atmosphere of the Villa is not too congenial to me. M. Giraud and I do not see eye to eye about everything. His politeness to me has not been striking and you will comprehend that I do not intend any little discoveries I may make to benefit him in any way.”
@@ -4486,7 +4486,7 @@ Poirot paused, cleared his throat, and signed to me to write.
 “Letter written to M. Hercule Poirot, imploring assistance.
 “Telegram sent to Jack Renauld, bidding him proceed by the Anzora to Buenos Aires.
 “Chauffeur, Masters, sent off on a holiday.
-“Visit of a lady, that evening. As he is seeing her out, his words are ‘Yes, yes—but for God’s sake go now.⁠…’ ”
+“Visit of a lady, that evening. As he is seeing her out, his words are ‘Yes, yes—but for God’s sake go now.…’ ”
 Poirot paused.
 “There, Hastings, take each of those facts one by one, consider them carefully by themselves and in relation to the whole, and see if you do not get new light on the matter.”
 I endeavoured conscientiously to do as he had said. After a moment or two, I said rather doubtfully:
@@ -4571,7 +4571,7 @@ I shook my head, bewildered.
 “They dressed the body of the tramp in a suit of M. Renauld’s and left his ragged coat and trousers by the door of the shed, not daring to take them into the house. And then, to give credence to the tale Madame Renauld was to tell, they drove the aeroplane dagger through his heart. That night, M. Renauld will first bind and gag his wife, and then, taking a spade, will dig a grave in that particular spot of ground where he knows a—how do you call it? bunkair?—is to be made. It is essential that the body should be found—Madame Daubreuil must have no suspicions. On the other hand, if a little time elapses, any dangers as to identity will be greatly lessened. Then, M. Renauld will don the tramp’s rags, and shuffle off to the station, where he will leave, unnoticed, by the 12:10 train. Since the crime will be supposed to have taken place two hours later, no suspicion can possibly attach to him.
 “You see now his annoyance at the inopportune visit of the girl Bella. Every moment of delay is fatal to his plans. He gets rid of her as soon as he can, however. Then, to work! He leaves the front door slightly ajar to create the impression that the assassins left that way. He binds and gags Madame Renauld, correcting his mistake of twenty-two years ago, when the looseness of the bonds caused suspicion to fall upon his accomplice, but leaving her primed with essentially the same story as he had invented before, proving the unconscious recoil of the mind against originality. The night is chilly, and he slips on an overcoat over his underclothing, intending to cast it into the grave with the dead man. He goes out by the window, smoothing over the flower bed carefully, and thereby furnishing the most positive evidence against himself. He goes out on to the lonely golf links, and he digs—and then—”
 “Yes?”
-“And then,” said Poirot gravely, “the justice that he has so long eluded overtakes him. An unknown hand stabs him in the back.⁠… Now, Hastings, you understand what I mean when I talk of two crimes. The first crime, the crime that M. Renauld, in his arrogance, asked us to investigate (ah, but he made a famous mistake there! He misjudged Hercule Poirot!) is solved. But behind it lies a deeper riddle. And to solve that will be difficult—since the criminal in his wisdom, has been content to avail himself of the devices prepared by M. Renauld. It has been a particularly perplexing and baffling mystery to solve. A young hand, like Giraud, who does not place any reliance on the psychology, is almost certain to fail.”
+“And then,” said Poirot gravely, “the justice that he has so long eluded overtakes him. An unknown hand stabs him in the back.… Now, Hastings, you understand what I mean when I talk of two crimes. The first crime, the crime that M. Renauld, in his arrogance, asked us to investigate (ah, but he made a famous mistake there! He misjudged Hercule Poirot!) is solved. But behind it lies a deeper riddle. And to solve that will be difficult—since the criminal in his wisdom, has been content to avail himself of the devices prepared by M. Renauld. It has been a particularly perplexing and baffling mystery to solve. A young hand, like Giraud, who does not place any reliance on the psychology, is almost certain to fail.”
 “You’re marvellous, Poirot,” I said, with admiration. “Absolutely marvellous. No one on earth but you could have done it!”
 I think my praise pleased him. For once in his life, he looked almost embarrassed.
 “Ah, then you no longer despise poor old Papa Poirot? You shift your allegiance back from the human foxhound?”
@@ -4640,7 +4640,7 @@ Suddenly I felt that I could remain no longer. I must get out into the air. I su
 “Go by all means, mon ami. I amuse myself, and will stay to the end. I will rejoin you later.”
 It was only a few steps from the theatre to the hotel. I went up to the sitting-room, ordered a whisky and soda, and sat drinking it, staring meditatively into the empty grate. I heard the door open, and turned my head, thinking it was Poirot. Then I jumped to my feet. It was Cinderella who stood in the doorway. She spoke haltingly, her breath coming in little gasps.
 “I saw you in front. You and your friend. When you got up to go, I was waiting outside and followed you. Why are you here—in Coventry? What were you doing there tonight? Is the man who was with you the—the detective?”
-She stood there, the cloak she had wrapped round her stage dress slipping from her shoulders. I saw the whiteness of her cheeks under the rouge, and heard the terror in her voice. And in that moment I understood everything—understood why Poirot was seeking her, and what she feared, and understood at last my own heart.⁠…
+She stood there, the cloak she had wrapped round her stage dress slipping from her shoulders. I saw the whiteness of her cheeks under the rouge, and heard the terror in her voice. And in that moment I understood everything—understood why Poirot was seeking her, and what she feared, and understood at last my own heart.…
 “Yes,” I said gently.
 “Is he looking for—me?” she half whispered.
 Then, as I did not answer for a moment, she slipped down by the big chair, and burst into violent, bitter weeping.
@@ -4672,7 +4672,7 @@ Again I paused. I had leapt to the truth in a flash as she entered the room, but
 “Go on,” repeated the girl steadily.
 “I fancy his back was to you—but you recognized him, or thought you recognized him. The gait and the carriage were familiar to you, and the pattern of his overcoat.” I paused. “You told me in the train on the way from Paris that you had Italian blood in your veins, and that you had nearly got into trouble once with it. You used a threat in one of your letters to Jack Renauld. When you saw him there, your anger and jealousy drove you mad—and you struck! I don’t believe for a minute that you meant to kill him. But you did kill him, Cinderella.”
 She had flung up her hands to cover her face, and in a choked voice she said:
-“You’re right⁠… you’re right⁠… I can see it all as you tell it.” Then she turned on me almost savagely. “And you love me? Knowing what you do, how can you love me?”
+“You’re right… you’re right… I can see it all as you tell it.” Then she turned on me almost savagely. “And you love me? Knowing what you do, how can you love me?”
 “I don’t know,” I said a little wearily. “I think love is like that—a thing one cannot help. I have tried, I know—ever since the first day I met you. And love has been too strong for me.”
 And then suddenly, when I least expected it, she broke down again, casting herself down on the floor and sobbing wildly.
 “Oh, I can’t!” she cried. “I don’t know what to do. I don’t know which way to turn. Oh, pity me, pity me, someone, and tell me what to do!”
@@ -4733,7 +4733,7 @@ The tone was light, but I read a veiled menace into the words.
 “Still—as you say! Without doubt you are satisfied with the part you are playing. Me, I preoccupy myself with Jack Renauld.”
 Jack Renauld! The words gave me a start. I had completely forgotten that aspect of the case. Jack Renauld, in prison, with the shadow of the guillotine looming over him! I saw the part I was playing in a more sinister light. I could save Bella—yes, but in doing so I ran the risk of sending an innocent man to his death.
 I pushed the thought from me with horror. It could not be. He would be acquitted. Certainly he would be acquitted! But the cold fear came back. Suppose he were not? What then? Could I have it on my conscience—horrible thought! Would it come to that in the end? A decision. Bella or Jack Renauld? The promptings of my heart were to save the girl I loved at any cost to myself. But, if the cost were to another, the problem was altered.
-What would the girl herself say? I remembered that no word of Jack Renauld’s arrest had passed my lips. As yet she was in total ignorance of the fact that her former lover was in prison charged with a hideous crime which he had not committed. When she knew, how would she act? Would she permit her life to be saved at the expense of his? Certainly she must do nothing rash. Jack Renauld might, and probably would, be acquitted without any intervention on her part. If so, good. But if he was not.⁠… That was the terrible, the unanswerable problem. I fancied that she ran no risk of the extreme penalty. The circumstances of the crime were quite different in her case. She could plead jealousy and extreme provocation, and her youth and beauty would go for much. The fact that by a tragic mistake it was old Mr. Renauld, and not his son, who paid the penalty would not alter the motive of the crime. But in any case, however lenient the sentence of the Court, it must mean a long term of imprisonment.
+What would the girl herself say? I remembered that no word of Jack Renauld’s arrest had passed my lips. As yet she was in total ignorance of the fact that her former lover was in prison charged with a hideous crime which he had not committed. When she knew, how would she act? Would she permit her life to be saved at the expense of his? Certainly she must do nothing rash. Jack Renauld might, and probably would, be acquitted without any intervention on her part. If so, good. But if he was not.… That was the terrible, the unanswerable problem. I fancied that she ran no risk of the extreme penalty. The circumstances of the crime were quite different in her case. She could plead jealousy and extreme provocation, and her youth and beauty would go for much. The fact that by a tragic mistake it was old Mr. Renauld, and not his son, who paid the penalty would not alter the motive of the crime. But in any case, however lenient the sentence of the Court, it must mean a long term of imprisonment.
 No, Bella must be protected. And, at the same time, Jack Renauld must be saved. How this was to be accomplished I did not see clearly. But I pinned my faith to Poirot. He knew. Come what might, he would manage to save an innocent man. He must find some pretext other than the real one. It might be difficult, but he would manage it somehow. And with Bella unsuspected, and Jack Renauld acquitted, all would end satisfactorily.
 So I told myself repeatedly, but at the bottom of my heart there still remained a cold fear.
 We crossed from England by the evening boat, and the following morning saw us in Saint-Omer, whither Jack Renauld had been taken. Poirot lost no time in visiting M. Hautet. As he did not seem disposed to make any objections to my accompanying him, I bore him company.
@@ -4911,13 +4911,13 @@ She raised her veil—and I gasped. For, though as like her as two peas, this gi
 “The next day came—but no Bella. She’d made a date with me to meet at the hotel, but she didn’t keep it. No sign of her all day. I got more and more anxious. Then came an evening paper with the news.
 “It was awful! I couldn’t be sure, of course—but I was terribly afraid. I figured it out that Bella had met Papa Renauld and told him about her and Jack, and that he’d insulted her or something like that. We’ve both got terribly quick tempers.
 “Then all the masked foreigner business came out, and I began to feel more at ease. But it still worried me that Bella hadn’t kept her date with me.
-“By the next morning, I was so rattled that I’d just got to go and see what I could. First thing, I ran up against you. You know all that⁠… When I saw the dead man, looking so like Jack, and wearing Jack’s fancy overcoat, I knew! And there was the identical paper-knife—wicked little thing!—that Jack had given Bella! Ten to one it had her fingermarks on it. I can’t hope to explain to you the sort of helpless horror of that moment. I only saw one thing clearly—I must get hold of that dagger, and get right away with it before they found out it was gone. I pretended to faint, and whilst you were away getting water I took the thing and hid it away in my dress.
+“By the next morning, I was so rattled that I’d just got to go and see what I could. First thing, I ran up against you. You know all that… When I saw the dead man, looking so like Jack, and wearing Jack’s fancy overcoat, I knew! And there was the identical paper-knife—wicked little thing!—that Jack had given Bella! Ten to one it had her fingermarks on it. I can’t hope to explain to you the sort of helpless horror of that moment. I only saw one thing clearly—I must get hold of that dagger, and get right away with it before they found out it was gone. I pretended to faint, and whilst you were away getting water I took the thing and hid it away in my dress.
 “I told you that I was staying at the Hotel du Phare, but of course really I made a beeline back to Calais, and then on to England by the first boat. When we were in mid-Channel, I dropped that little devil of a dagger into the sea. Then I felt I could breathe again.
-“Bella was at our digs in London. She looked like nothing on God’s earth. I told her what I’d done, and that she was pretty safe for the time being. She stared at me, and then began laughing⁠… laughing⁠… laughing⁠… it was horrible to hear her! I felt that the best thing to do was to keep busy. She’d go mad if she had time to brood on what she’d done. Luckily we got an engagement at once.
-“And then, I saw you and your friend, watching us that night⁠… I was frantic. You must suspect, or you wouldn’t have tracked us down. I had to know the worst, so I followed you. I was desperate. And then, before I’d had time to say anything, I tumbled to it that it was me you suspected, not Bella! Or at least that you thought I was Bella since I’d stolen the dagger.
-“I wish, honey, that you could see back into my mind at that moment⁠… you’d forgive me, perhaps⁠… I was so frightened, and muddled, and desperate.⁠… All I could get clearly was that you would try and save me. I didn’t know whether you’d be willing to save her⁠… I thought very likely not—it wasn’t the same thing! And I couldn’t risk it! Bella’s my twin—I’d got to do the best for her. So I went on lying.⁠… I felt mean—I feel mean still.⁠… That’s all—enough too, you’ll say, I expect. I ought to have trusted you.⁠… If I had—
-“As soon as the news was in the paper that Jack Renauld had been arrested, it was all up. Bella wouldn’t even wait to see how things went.⁠…
-“I’m very tired.⁠… I can’t write any more.⁠…”
+“Bella was at our digs in London. She looked like nothing on God’s earth. I told her what I’d done, and that she was pretty safe for the time being. She stared at me, and then began laughing… laughing… laughing… it was horrible to hear her! I felt that the best thing to do was to keep busy. She’d go mad if she had time to brood on what she’d done. Luckily we got an engagement at once.
+“And then, I saw you and your friend, watching us that night… I was frantic. You must suspect, or you wouldn’t have tracked us down. I had to know the worst, so I followed you. I was desperate. And then, before I’d had time to say anything, I tumbled to it that it was me you suspected, not Bella! Or at least that you thought I was Bella since I’d stolen the dagger.
+“I wish, honey, that you could see back into my mind at that moment… you’d forgive me, perhaps… I was so frightened, and muddled, and desperate.… All I could get clearly was that you would try and save me. I didn’t know whether you’d be willing to save her… I thought very likely not—it wasn’t the same thing! And I couldn’t risk it! Bella’s my twin—I’d got to do the best for her. So I went on lying.… I felt mean—I feel mean still.… That’s all—enough too, you’ll say, I expect. I ought to have trusted you.… If I had—
+“As soon as the news was in the paper that Jack Renauld had been arrested, it was all up. Bella wouldn’t even wait to see how things went.…
+“I’m very tired.… I can’t write any more.…”
 She had begun to sign herself Cinderella, but had crossed that out and written instead “Dulcie Duveen.”
 It was an ill-written, blurred epistle but I have kept it to this day.
 Poirot was with me when I read it. The sheets fell from my hand, and I looked across at him.
@@ -5128,7 +5128,7 @@ I nodded.
 “(3) Marthe Daubreuil was the daughter of the notorious Madame Beroldy who in my opinion was morally and virtually the murderess of her husband, although it may have been Georges Conneau’s hand which struck the actual blow.
 “(4) Marthe Daubreuil was the only person, besides Jack Renauld, likely to have the third dagger in her possession.”
 Poirot paused and cleared his throat.
-“Of course, when I learned of the existence of the other girl, Bella Duveen, I realized that it was quite possible that she might have killed M. Renauld. The solution did not commend itself to me, because, as I pointed out to you, Hastings, an expert, such as I am, likes to meet a foeman worthy of his steel. Still one must take crimes as one finds them, not as one would like them to be. It did not seem very likely that Bella Duveen would be wandering about carrying a souvenir paper-knife in her hand, but of course she might have had some idea all the time of revenging herself on Jack Renauld. When she actually came forward and confessed to the murder, it seemed that all was over. And yet—I was not satisfied, mon ami. I was not satisfied.⁠…
+“Of course, when I learned of the existence of the other girl, Bella Duveen, I realized that it was quite possible that she might have killed M. Renauld. The solution did not commend itself to me, because, as I pointed out to you, Hastings, an expert, such as I am, likes to meet a foeman worthy of his steel. Still one must take crimes as one finds them, not as one would like them to be. It did not seem very likely that Bella Duveen would be wandering about carrying a souvenir paper-knife in her hand, but of course she might have had some idea all the time of revenging herself on Jack Renauld. When she actually came forward and confessed to the murder, it seemed that all was over. And yet—I was not satisfied, mon ami. I was not satisfied.…
 “I went over the case again minutely, and I came to the same conclusion as before. If it was not Bella Duveen, the only other person who could have committed the crime was Marthe Daubreuil. But I had not one single proof against her!
 “And then you showed me that letter from Mademoiselle Dulcie, and I saw a chance of settling the matter once for all. The original dagger was stolen by Dulcie Duveen and thrown into the sea—since, as she thought, it belonged to her sister. But if, by any chance, it was not her sister’s, but the one given by Jack to Marthe Daubreuil—why then, Bella Duveen’s dagger would be still intact! I said no word to you, Hastings (it was no time for romance) but I sought out Mademoiselle Dulcie, told her as much as I deemed needful, and set her to search amongst the effects of her sister. Imagine my elation, when she sought me out (according to my instructions) as Miss Robinson with the precious souvenir in her possession!
 “In the meantime I had taken steps to force Mademoiselle Marthe into the open. By my orders, Mrs. Renauld repulsed her son, and declared her intention of making a will on the morrow which should cut him off from ever enjoying even a portion of his father’s fortune. It was a desperate step, but a necessary one, and Madame Renauld was fully prepared to take the risk—though unfortunately she also never thought of mentioning her change of room. I suppose she took it for granted that I knew. All happened as I thought. Marthe Daubreuil made a last bold bid for the Renauld millions—and failed!”
@@ -7390,7 +7390,7 @@ The bell was answered, and Ralph ordered the drinks. When the man had gone again
 “Is it really—serious?” I asked.
 He nodded. “I’m fairly up against it this time,” he said soberly.
 The unusual ring of gravity in his voice told me that he spoke the truth. It took a good deal to make Ralph grave.
-“In fact,” he continued, “I can’t see my way ahead⁠ ⁠… I’m damned if I can.”
+“In fact,” he continued, “I can’t see my way ahead⁠ … I’m damned if I can.”
 “If I could help—” I suggested diffidently.
 But he shook his head very decidedly. “Good of you, doctor. But I can’t let you in on this. I’ve got to play a lone hand.”
 He was silent a minute and then repeated in a slightly different tone of voice: “Yes—I’ve got to play a lone hand.…”
@@ -9927,7 +9927,7 @@ For a moment Raymond seemed taken aback. Then he recovered himself.
 “Exactly,” agreed the other man.
 “Yet there must have been some reason for his thinking so,” mused Poirot. “Oh! no,” he held up his hand in protest, “I know the reason you will give—but it is not enough. We must seek elsewhere. I will put it this way. From the beginning of the case I have been struck by one thing—the nature of those words which Mr. Raymond overheard. It has been amazing to me that no one has commented on them, has seen anything odd about them.”
 He paused a minute, and then quoted softly:—
-“⁠ ⁠… the calls on my purse have been so frequent of late that I fear it is impossible for me to accede to your request. Does nothing strike you as odd about that?”
+“⁠ … the calls on my purse have been so frequent of late that I fear it is impossible for me to accede to your request. Does nothing strike you as odd about that?”
 “I don’t think so,” said Raymond. “He has frequently dictated letters to me, using almost exactly those same words.”
 “Exactly,” cried Poirot. “That is what I seek to arrive at. Would any man use such a phrase in talking to another? Impossible that that should be part of a real conversation. Now, if he had been dictating a letter—”
 “You mean he was reading a letter aloud,” said Raymond slowly. “Even so, he must have been reading to someone.”
@@ -10074,8 +10074,8 @@ I must admit that it gave me rather a shock to run into Parker just outside the 
 Then later, when the body was discovered, and I sent Parker to telephone for the police, what a judicious use of words: “I did what little had to be done!” It was quite little—just to shove the dictaphone into my bag and push back the chair against the wall in its proper place. I never dreamed that Parker would have noticed that chair. Logically, he ought to have been so agog over the body as to be blind to everything else. But I hadn’t reckoned with the trained-servant complex.
 I wish I could have known beforehand that Flora was going to say she’d seen her uncle alive at a quarter to ten. That puzzled me more than I can say. In fact, all through the case there have been things that puzzled me hopelessly. Everyone seems to have taken a hand.
 My greatest fear all through has been Caroline. I have fancied she might guess. Curious the way she spoke that day of my “strain of weakness.”
-Well, she will never know the truth. There is, as Poirot said, one way out.⁠⁠…
-I can trust him. He and Inspector Raglan will manage it between them. I should not like Caroline to know. She is fond of me, and then, too, she is proud.⁠⁠… My death will be a grief to her, but grief passes.⁠⁠…
+Well, she will never know the truth. There is, as Poirot said, one way out.⁠…
+I can trust him. He and Inspector Raglan will manage it between them. I should not like Caroline to know. She is fond of me, and then, too, she is proud.⁠… My death will be a grief to her, but grief passes.⁠…
 When I have finished writing, I shall enclose this whole manuscript in an envelope and address it to Poirot.
 And then—what shall it be? Veronal? There would be a kind of poetic justice. Not that I take any responsibility for Mrs. Ferrars’s death. It was the direct consequence of her own actions. I feel no pity for her.
 I have no pity for myself either.
@@ -10266,7 +10266,7 @@ Poirot’s face grew very grave.
 For a day or two after our visit from the fake asylum attendant I was in some hopes that he might return, and I refused to leave the flat even for a moment. As far as I could see, he had no reason to suspect that we had penetrated his disguise. He might, I thought, return and try to remove the body, but Poirot scoffed at my reasoning.
 “Mon ami,” he said, “if you wish you may wait in to put salt on the little bird’s tail, but for me I do not waste my time so.”
 “Well, then, Poirot,” I argued, “why did he run the risk of coming at all? If he intended to return later for the body, I can see some point in his visit. He would at least be removing the evidence against himself; as it is, he does not seem to have gained anything.”
-Poirot shrugged his most Gallic shrug. “But you do not see with the eyes of Number Four, Hastings,” he said. “You talk of evidence, but what evidence have we against him? True, we have a body, but we have no proof even that the man was murdered—prussic acid, when inhaled, leaves no trace. Again, we can find no one who saw anyone enter the flat during our absence, and we have found out nothing about the movements of our late friend, Mayerling⁠…
+Poirot shrugged his most Gallic shrug. “But you do not see with the eyes of Number Four, Hastings,” he said. “You talk of evidence, but what evidence have we against him? True, we have a body, but we have no proof even that the man was murdered—prussic acid, when inhaled, leaves no trace. Again, we can find no one who saw anyone enter the flat during our absence, and we have found out nothing about the movements of our late friend, Mayerling…
 “No, Hastings, Number Four has left no trace, and he knows it. His visit we may call a reconnaissance. Perhaps he wanted to make quite sure that Mayerling was dead, but more likely, I think, he came to see Hercule Poirot, and to have speech with the adversary whom alone he must fear.”
 Poirot’s reasoning appeared to be typically egotistical, but I forbore to argue.
 “And what about the inquest?” I asked. “I suppose you will explain things clearly there, and let the police have a full description of Number Four.”
@@ -10569,7 +10569,7 @@ He dragged me back—just in time. A tree had crashed down onto the sidewalk, ju
 “The porter—”
 “A night porter—who had not previously seen Halliday. A man comes in, sufficiently like Halliday—we may trust Number Four for that—asks for letters, goes upstairs, packs a small suitcase, and slips out the next morning. Nobody saw Halliday all that evening—no, because he was already in the hands of his enemies. Was it Halliday whom Madame Olivier received? Yes, for though she did not know him by sight, an imposter could hardly deceive her on her own special subject. He came here, he had his interview, he left. What happened next?”
 Seizing me by the arm, Poirot was fairly dragging me back to the villa.
-“Now, mon ami, imagine that it is the day after the disappearance, and that we are tracking footprints. You love footprints, do you not? See—here they go, a man’s, M. Halliday’s⁠… He turns to the right as we did, he walks briskly—ah! other footsteps following behind—very quickly—small footsteps, a woman’s. See, she catches him up—a slim young woman, in a widow’s veil. ‘Pardon, monsieur, Madame Olivier desires that I recall you.’ He stops, he turns. Now where would the young woman take him? Is it coincidence that she catches up with him just where a narrow alleyway opens, dividing two gardens? She leads him down it. ‘It is shorter this way, monsieur.’ On the right is the garden of Madame Olivier’s villa, on the left the garden of another villa—and from that garden, mark you, the tree fell—so nearly on us. Garden doors from both open on the alley. The ambush is there. Men pour out, overpower him, and carry him into the strange villa.”
+“Now, mon ami, imagine that it is the day after the disappearance, and that we are tracking footprints. You love footprints, do you not? See—here they go, a man’s, M. Halliday’s… He turns to the right as we did, he walks briskly—ah! other footsteps following behind—very quickly—small footsteps, a woman’s. See, she catches him up—a slim young woman, in a widow’s veil. ‘Pardon, monsieur, Madame Olivier desires that I recall you.’ He stops, he turns. Now where would the young woman take him? Is it coincidence that she catches up with him just where a narrow alleyway opens, dividing two gardens? She leads him down it. ‘It is shorter this way, monsieur.’ On the right is the garden of Madame Olivier’s villa, on the left the garden of another villa—and from that garden, mark you, the tree fell—so nearly on us. Garden doors from both open on the alley. The ambush is there. Men pour out, overpower him, and carry him into the strange villa.”
 “Good gracious, Poirot,” I cried, “are you pretending to see all this?”
 “I see it with the eyes of the mind, mon ami. So, and only so, could it have happened. Come, let us go back to the house.”
 “You want to see Madame Olivier again?”
@@ -10605,7 +10605,7 @@ We went upstairs together. Sitting in a chair by the window was a haggard young 
 “Are you John Halliday?” The man nodded. “Show me your left arm. John Halliday has a mole just below the left elbow.”
 The man stretched out his arm. The mole was there. Poirot bowed to the countess. She turned and left the room.
 A glass of brandy revived Halliday somewhat.
-“My God!” he muttered. “I have been through hell—hell⁠… Those fiends are devils incarnate. My wife, where is she? What does she think? They told me that she would believe—would believe—”
+“My God!” he muttered. “I have been through hell—hell… Those fiends are devils incarnate. My wife, where is she? What does she think? They told me that she would believe—would believe—”
 “She does not,” said Poirot firmly. “Her faith in you has never wavered. She is waiting for you—she and the child.”
 “Thank God for that. I can hardly believe that I am free once more.”
 “Now that you are a little recovered, monsieur, I should like to hear the whole story from the beginning.”
@@ -10614,7 +10614,7 @@ Halliday looked at him with an indescribable expression.
 “What?”
 “Have you ever heard of the Big Four?”
 “Something of them,” said Poirot dryly.
-“You do not know what I know. They have unlimited power. If I remain silent, I shall be safe—if I say one word—not only I, but my nearest and dearest will suffer unspeakable things. It is no good arguing with me. I know⁠… I remember—nothing.”
+“You do not know what I know. They have unlimited power. If I remain silent, I shall be safe—if I say one word—not only I, but my nearest and dearest will suffer unspeakable things. It is no good arguing with me. I know… I remember—nothing.”
 And, getting up, he walked from the room.
 Poirot’s face wore a baffled expression.
 “So it is like that, is it?” he muttered. “The Big Four win again. What is that you are holding in your hand, Hastings?”
@@ -10750,7 +10750,7 @@ Never before, or since, have I felt so near death. Poirot was magnificent. He ne
 She knelt down by him, extracted his cigarette case, took out a cigarette, and placed it between his lips.
 “And now a match,” she said, rising.
 “It is not necessary, madame.” Something in his voice startled me. She, too, was arrested.
-“Do not move, I pray of you, madame. You will regret it if you do. Are you acquainted at all with the properties of curare? The South American Indians use it as an arrow poison. A scratch with it means death. Some tribes use a little blowpipe—I, too, have a little blowpipe constructed so as to look exactly like a cigarette. I have only to blow⁠… Ah! you start. Do not move, madame. The mechanism of this cigarette is most ingenious. One blows—and a tiny dart resembling a fishbone flies through the air—to find its mark. You do not wish to die, madame. Therefore, I beg of you to release my friend Hastings from his bonds. I cannot use my hands, but I can turn my head—so—you are still covered, madame. Make no mistake, I beg of you.”
+“Do not move, I pray of you, madame. You will regret it if you do. Are you acquainted at all with the properties of curare? The South American Indians use it as an arrow poison. A scratch with it means death. Some tribes use a little blowpipe—I, too, have a little blowpipe constructed so as to look exactly like a cigarette. I have only to blow… Ah! you start. Do not move, madame. The mechanism of this cigarette is most ingenious. One blows—and a tiny dart resembling a fishbone flies through the air—to find its mark. You do not wish to die, madame. Therefore, I beg of you to release my friend Hastings from his bonds. I cannot use my hands, but I can turn my head—so—you are still covered, madame. Make no mistake, I beg of you.”
 Slowly, with shaking hands, and rage and hate convulsing her face, she bent down and did his bidding. I was free. Poirot’s voice gave me instructions.
 “Your bonds will now do for the lady, Hastings. That is right. Is she securely fastened? Then release me, I pray of you. It is a fortunate circumstance she sent away her henchmen. With a little luck we may hope to find the way out unobstructed.”
 In another minute, Poirot stood by my side. He bowed to the lady.
@@ -11235,7 +11235,7 @@ On the floor was Sonia Daviloff, gagged and bound, with a great wad of saturated
 “My friend, Savaronoff was the second-greatest chess player in the world. In all probability Number Four did not even know the rudiments of the game. Certainly he could not sustain the fiction of a match. He tried all he knew to avoid the contest. When that failed, Wilson’s doom was sealed. At all costs he must be prevented from discovering that the great Savaronoff did not even know how to play chess. Wilson was fond of the Ruy Lopez opening, and was certain to use it. Number Four arranged for death to come with the third move, before any complications of defence set in.”
 “But, my dear Poirot,” I persisted, “are we dealing with a lunatic? I quite follow your reasoning, and admit that you must be right, but to kill a man just to sustain his role! Surely there were simpler ways out of the difficulty than that? He could have said that his doctor forbade the strain of a match.”
 Poirot wrinkled his forehead.
-“Certainement, Hastings,” he said, “there were other ways, but none so convincing. Besides, you are assuming that to kill a man is a thing to avoid, are you not? Number Four’s mind, it does not act that way. I put myself in his place, a thing impossible for you. I picture his thoughts. He enjoys himself as the professor at that match, I doubt not he has visited the chess tourneys to study his part. He sits and frowns in thought; he gives the impression that he is thinking great plans, and all the time he laughs in himself. He is aware that two moves are all that he knows—and all that he need know. Again, it would appeal to his mind to foresee the time that suits Number Four⁠… Oh, yes, Hastings, I begin to understand our friend and his psychology.”
+“Certainement, Hastings,” he said, “there were other ways, but none so convincing. Besides, you are assuming that to kill a man is a thing to avoid, are you not? Number Four’s mind, it does not act that way. I put myself in his place, a thing impossible for you. I picture his thoughts. He enjoys himself as the professor at that match, I doubt not he has visited the chess tourneys to study his part. He sits and frowns in thought; he gives the impression that he is thinking great plans, and all the time he laughs in himself. He is aware that two moves are all that he knows—and all that he need know. Again, it would appeal to his mind to foresee the time that suits Number Four… Oh, yes, Hastings, I begin to understand our friend and his psychology.”
 I shrugged.
 “Well, I suppose you’re right, but I can’t understand anyone running a risk he could so easily avoid.”
 “Risk!” Poirot snorted. “Where then lay the risk? Would Japp have solved the problem? No; if Number Four had not made one small mistake he would have run no risk.”
@@ -11302,7 +11302,7 @@ I realized anew the excellence of their espionage system—or it might have been
 No good could come of denying what was palpably true.
 “Yes,” I said. “I did get a telegram.”
 “You fetch him, yes? Fetch him now.”
-I ground my teeth, but what could I do. I ran upstairs again. As I did so, I thought of confiding in Mrs. Pearson, at any rate as far as Cinderella’s disappearance went. She was on the landing, but close behind her was the little maidservant, and I hesitated. If she was a spy—the words of the note danced before my eyes: “… she will suffer⁠…” I passed into the sitting room without speaking.
+I ground my teeth, but what could I do. I ran upstairs again. As I did so, I thought of confiding in Mrs. Pearson, at any rate as far as Cinderella’s disappearance went. She was on the landing, but close behind her was the little maidservant, and I hesitated. If she was a spy—the words of the note danced before my eyes: “… she will suffer…” I passed into the sitting room without speaking.
 I took up the telegram and was about to pass out again when an idea struck me. Could I not leave some sign which would mean nothing to my enemies but which Poirot himself would find significant. I hurried across to the bookcase and tumbled out four books onto the floor. No fear of Poirot’s not seeing them. They would outrage his eyes immediately—and coming on top of his little lecture, surely he would find them unusual. Next I put a shovelful of coal on the fire and managed to spill four knobs into the grate. I had done all I could—pray Heaven Poirot would read the sign aright.
 I hurried down again. The Chinaman took the telegram from me, read it, then placed it in his pocket and with a nod beckoned me to follow him.
 It was a long weary march that he led me. Once we took a bus and once we went for some considerable way in a tram, and always our route led us steadily eastward. We went through strange districts, whose existence I had never dreamed of. We were down by the docks now, I knew, and I realized that I was being taken into the heart of Chinatown.
@@ -11571,7 +11571,7 @@ The nurse, mistaking his emotion, began speaking gently.
 “You would like to see her?”
 The nurse led the way, and we followed.
 Poor Flossie Monro, with her rouge and her dyed hair. She lay there very peacefully, with a little smile on her lips.
-“Yes,” murmured Poirot. “The stars fight against us—but is it the stars?” He lifted his head as though struck by a sudden idea. “Is it the stars, Hastings? If it is not—if it is not⁠… Oh, I swear to you, my friend, standing here by this poor woman’s body, that I will have no mercy when the time comes!”
+“Yes,” murmured Poirot. “The stars fight against us—but is it the stars?” He lifted his head as though struck by a sudden idea. “Is it the stars, Hastings? If it is not—if it is not… Oh, I swear to you, my friend, standing here by this poor woman’s body, that I will have no mercy when the time comes!”
 “What do you mean?” I asked.
 But Poirot had turned to the nurse and was eagerly demanding information. A list of the articles found in her handbag was finally obtained. Poirot gave a suppressed cry as he read it over.
 “You see, Hastings, you see?”
@@ -12067,8 +12067,8 @@ The well-known ironical voice dispelled any doubts I might have had.
 “I’ve been half afraid to ask you—what of the Big Four?”
 “All the bodies have now been recovered. That of Number Four was quite unrecognizable, the head blown to pieces. I wish—I rather wish it had not been so. I should have liked to be sure—but no more of that. Look at this.”
 He handed me a newspaper in which a paragraph was marked. It reported the death, by suicide, of Li Chang Yen, who had engineered the recent revolution which had failed so disastrously.
-“My great opponent,” said Poirot gravely. “It was fated that he and I should never meet in the flesh. When he received the news of the disaster here, he took the simplest way out. A great brain, my friend, a great brain. But I wish I had seen the face of the man who was Number Four⁠… Supposing that, after all—but I romance. He is dead. Yes, mon ami, together we have faced and routed the Big Four; and now you will return to your charming wife, and I—I shall retire. The great case of my life is over. Anything else will seem tame after this. No, I shall retire. Possibly I shall grow vegetable marrows! I might even marry and range myself!”
-He laughed heartily at the idea, but with a touch of embarrassment. I hope⁠… small men always admire big, flamboyant women—
+“My great opponent,” said Poirot gravely. “It was fated that he and I should never meet in the flesh. When he received the news of the disaster here, he took the simplest way out. A great brain, my friend, a great brain. But I wish I had seen the face of the man who was Number Four… Supposing that, after all—but I romance. He is dead. Yes, mon ami, together we have faced and routed the Big Four; and now you will return to your charming wife, and I—I shall retire. The great case of my life is over. Anything else will seem tame after this. No, I shall retire. Possibly I shall grow vegetable marrows! I might even marry and range myself!”
+He laughed heartily at the idea, but with a touch of embarrassment. I hope… small men always admire big, flamboyant women—
 “Marry and range myself,” he said again. “Who knows?”
 It was close on midnight when a man crossed the Place de la Concorde. In spite of the handsome fur coat which garbed his meagre form, there was something essentially weak and paltry about him.
 A little man with a face like a rat. A man, one would say, who could never play a conspicuous part, or rise to prominence in any sphere. And yet, in leaping to such a conclusion, an onlooker would have been wrong. For this man, negligible and inconspicuous as he seemed, played a prominent part in the destiny of the world. In an Empire where rats ruled, he was the king of the rats.
@@ -12101,7 +12101,7 @@ Olga Demiroff shook her head.
 “You mean—that the white-haired man is—their employer?”
 “Something of the kind.”
 The Russian looked alarmed and uneasy.
-“You are sure—the parcel is safe? It has not been tampered with? There has been too much talk⁠ ⁠… much too much talk.”
+“You are sure—the parcel is safe? It has not been tampered with? There has been too much talk⁠ … much too much talk.”
 He gnawed his nails again.
 “Judge for yourself.”
 She bent to the fireplace, deftly removing the coals. Underneath, from amongst the crumpled balls of newspaper, she selected from the very middle an oblong package wrapped round with grimy newspaper, and handed it to the man.
@@ -12305,7 +12305,7 @@ Van Aldin smiled drily.
 “You say that word, Ruth, as though you’d never heard it before. And yet your friends are doing it all round you every day.”
 “Oh! I know that. But—”
 She stopped, biting her lip. Her father nodded comprehendingly.
-“I know, Ruth. You’re like me, you can’t bear to let go. But I’ve learnt, and you’ve got to learn, that there are times when it’s the only way. I might find ways of whistling Derek back to you, but it would all come to the same in the end. He’s no good, Ruth; he’s rotten through and through. And mind you, I blame myself for ever letting you marry him. But you were kind of set on having him, and he seemed in earnest about turning over a new leaf—and well, I’d crossed you once, honey⁠ ⁠…”
+“I know, Ruth. You’re like me, you can’t bear to let go. But I’ve learnt, and you’ve got to learn, that there are times when it’s the only way. I might find ways of whistling Derek back to you, but it would all come to the same in the end. He’s no good, Ruth; he’s rotten through and through. And mind you, I blame myself for ever letting you marry him. But you were kind of set on having him, and he seemed in earnest about turning over a new leaf—and well, I’d crossed you once, honey⁠ …”
 He did not look at her as he said the last words. Had he done so, he might have seen the swift colour that came up in her face.
 “You did,” she said in a hard voice.
 “I was too durned softhearted to do it a second time. I can’t tell you how I wish I had, though. You’ve led a poor kind of life for the last few years, Ruth.”
@@ -12685,7 +12685,7 @@ She made her call about three o’clock.
 “My dear, I’m so glad,” she said warmly, as she squeezed Katherine’s hand. “And everyone in the village will be glad too.”
 “It’s very nice of you to come and tell me,” said Katherine. “I hoped you would come in because I wanted to ask about Johnnie.”
 “Oh! Johnnie. Well—”
-Johnnie was Mrs. Harrison’s youngest son. In another minute she was off, retailing a long history in which Johnnie’s adenoids and tonsils bulked largely. Katherine listened sympathetically. Habits die hard. Listening had been her portion for ten years now. “My dear, I wonder if I ever told you about the naval ball at Portsmouth? When Lord Charles admired my gown?” And composedly, kindly, Katherine would reply: “I rather think you have, Mrs. Harfield, but I’ve forgotten about it. Won’t you tell it me again?” And then the old lady would start off full swing, with numerous corrections, and stops, and remembered details. And half of Katherine’s mind would be listening, saying the right things mechanically when the old lady paused⁠ ⁠…
+Johnnie was Mrs. Harrison’s youngest son. In another minute she was off, retailing a long history in which Johnnie’s adenoids and tonsils bulked largely. Katherine listened sympathetically. Habits die hard. Listening had been her portion for ten years now. “My dear, I wonder if I ever told you about the naval ball at Portsmouth? When Lord Charles admired my gown?” And composedly, kindly, Katherine would reply: “I rather think you have, Mrs. Harfield, but I’ve forgotten about it. Won’t you tell it me again?” And then the old lady would start off full swing, with numerous corrections, and stops, and remembered details. And half of Katherine’s mind would be listening, saying the right things mechanically when the old lady paused⁠ …
 Now, with the same curious feeling of duality to which she was accustomed, she listened to Mrs. Harrison.
 At the end of half an hour, the latter recalled herself suddenly.
 “I’ve been talking about myself all this time,” she exclaimed. “And I came here to talk about you and your plans.”
@@ -14352,7 +14352,7 @@ He paused.
 “Why lie about it to the police?” asked Katherine.
 “Because I’m not a complete fool. I’ve realised from the beginning that, from the point of view of motive, I’m the ideal murderer. If I once admitted that I had been in her compartment just before she was murdered, I’d do for myself once and for all.”
 “I see.”
-Did she see? She could not have told herself. She was feeling the magnetic attraction of Derek’s personality, but there was something in her that resisted, that held back⁠ ⁠…
+Did she see? She could not have told herself. She was feeling the magnetic attraction of Derek’s personality, but there was something in her that resisted, that held back⁠ …
 “Katherine—”
 “I—”
 “You know that I care for you. Do—do you care for me?”
@@ -14467,7 +14467,7 @@ Her voice rose shrilly, and she flung out her arms in an extravagant gesture.
 Mirelle glanced at him superbly; she was clearly enjoying herself in the role she was playing.
 “Shall I betray my lover?” she asked. “Ah no; do not ask a woman to do that.”
 “Yet now—” hinted M. Caux.
-“Now it is different. He has betrayed me! Shall I suffer that in silence?⁠ ⁠…”
+“Now it is different. He has betrayed me! Shall I suffer that in silence?⁠ …”
 The Examining Magistrate checked her.
 “Quite so, quite so,” he murmured soothingly. “And now, Mademoiselle, perhaps you will read over the statement of what you have told us, see that it is correct, and sign it.”
 Mirelle wasted no time on the document.
@@ -18045,7 +18045,7 @@ Without answering Battle took a folded sheet of cheap notepaper from his pocket,
 Anthony handed it back with a light laugh.
 “That’s all? Cheer up, Battle. I’m really a king in disguise, you know.”
 He went into the house, whistling lightly as he walked along. But as he entered his bedroom and shut the door behind him, his face changed. It grew set and stern. He sat down on the edge of the bed and stared moodily at the floor.
-“Things are getting serious,” said Anthony to himself. “Something must be done about it. It’s all damned awkward.⁠…”
+“Things are getting serious,” said Anthony to himself. “Something must be done about it. It’s all damned awkward.…”
 He sat there for a minute or two, then strolled to the window. For a moment or two he stood looking out aimlessly, and then his eyes became suddenly focused on a certain spot, and his face lightened.
 “Of course,” he said. “The Rose Garden! That’s it! The Rose Garden.”
 He hurried downstairs again and out into the garden by a side door. He approached the Rose Garden by a circuitous route. It had a little gate at either end. He entered by the far one, and walked up to the sundial which was on a raised hillock in the exact centre of the garden.
@@ -18515,7 +18515,7 @@ But the Baron drew himself up and stood very straight and stiff.
 “But—”
 George stared at him—bewildered.
 The Baron took him into a corner of the room, and murmured something into his ear. Anthony watched, with a good deal of enjoyment, George’s face turning slowly purple, his eyes bulging, and all the incipient symptoms of apoplexy. A murmur of George’s throaty voice came to him.
-“Certainly⁠… certainly⁠… by all means⁠… no need at all⁠… complicate situation⁠… utmost discretion.”
+“Certainly… certainly… by all means… no need at all… complicate situation… utmost discretion.”
 “Ah!” Lemoine hit the table sharply with his hand. “I do not care about all this! The murder of Prince Michael—that was not my affair. I want King Victor.”
 Anthony shook his head gently.
 “I’m sorry for you, Lemoine. You’re really a very able fellow. But, all the same, you’re going to lose the trick. I’m about to play my trump card.”
@@ -18669,12 +18669,12 @@ Then, discreetly, he faded into the night. A few minutes later the sound of a ca
 “I never think they have,” said Anthony. “But damn it all, don’t let’s waste time talking about plumbers. Do you know that at this very minute I’m supposed to be deep in conference with Isaacstein and old Lollipop? They want to talk about oil. Oil, my God! They can just await my kingly pleasure. Virginia, do you remember my telling you once that I’d have a damned good try to make you care for me.”
 “I remember,” said Virginia softly. “But Superintendent Battle was looking out of the window.”
 “Well, he isn’t now,” said Anthony.
-He caught her suddenly to him, kissing her eyelids, her lips, the green gold of her hair.⁠…
+He caught her suddenly to him, kissing her eyelids, her lips, the green gold of her hair.…
 “I do love you so, Virginia,” he whispered. “I do love you so. Do you love me?”
 He looked down at her—sure of the answer.
 Her head rested against his shoulder, and very low, in a sweet shaken voice, she answered:
 “Not a bit!”
-“You little devil,” cried Anthony, kissing her again. “Now I know for certain that I shall love you until I die.⁠…”
+“You little devil,” cried Anthony, kissing her again. “Now I know for certain that I shall love you until I die.…”
 Scene—Chimneys, 11 a.m. Thursday morning.
 Johnson, the police constable, with his coat off, digging.
 Something in the nature of a funeral feeling seems to be in the air. The friends and relations stand round the grave that Johnson is digging.
@@ -18699,7 +18699,7 @@ Bundle is rising to the situation.
 “At the present minute,” replied Lord Caterham, looking at his watch, “he is good for at least fifteen minutes about the Empire.”
 Another picture.
 Mr. Bill Eversleigh, not invited to be present at the graveside ceremony, at the telephone.
-“No, really, I mean it.⁠… I say, don’t be huffy.⁠… Well, you will have supper tonight anyway?⁠… No, I haven’t. I’ve been kept to it with my nose at the grindstone. You’ve no idea what Codders is like.⁠… I say, Dolly, you know jolly well what I think about you.⁠… You know I’ve never cared for anyone but you.⁠… Yes, I’ll come to the show first. How does the old wheeze go? ‘And the little girl tries, hooks and eyes.’⁠…”
+“No, really, I mean it.… I say, don’t be huffy.… Well, you will have supper tonight anyway?… No, I haven’t. I’ve been kept to it with my nose at the grindstone. You’ve no idea what Codders is like.… I say, Dolly, you know jolly well what I think about you.… You know I’ve never cared for anyone but you.… Yes, I’ll come to the show first. How does the old wheeze go? ‘And the little girl tries, hooks and eyes.’…”
 Unearthly sounds. Mr. Eversleigh trying to hum the refrain in question.
 And now George’s peroration draws to a close.
 “… the lasting peace and prosperity of the British Empire!”
@@ -20560,7 +20560,7 @@ He opened it and stepped out on to the terrace, looking from end to end of it.
 Nothing!
 “Looks all right,” he murmured to himself. “And yet—”
 He remained for a minute lost in thought. Then he stepped back into the library. Crossing to the door, he locked it and put the key in his pocket. Then he switched off the light. He stood for a minute listening, then crossed softly to the open window and stood there, Leopold ready in his hand.
-Was there, or was there not, a soft patter of feet along the terrace? No—his imagination. He grasped Leopold tightly and stood listening⁠⁠…
+Was there, or was there not, a soft patter of feet along the terrace? No—his imagination. He grasped Leopold tightly and stood listening⁠…
 In the distance a stable clock chimed two.
 Bundle Brent was a resourceful girl—she was also a girl of imagination. She had foreseen that Bill, if not Jimmy, would make objections to her participation in the possible dangers of the night. It was not Bundle’s idea to waste time in argument. She had laid her own plans and made her own arrangements. A glance from her bedroom window shortly before dinner had been highly satisfactory. She had known that the grey walls of the Abbey were plentifully adorned with ivy, but the ivy outside her window was particularly solid looking and would present no difficulties to one of her athletic propensities.
 She had no fault to find with Bill’s and Jimmy’s arrangements as far as they went.
